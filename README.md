@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJS, Springboot**
 
-- 📫 How to reach me **codifywithaditya@gmail.com**
+- 📫 How to reach me **who.adityak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
