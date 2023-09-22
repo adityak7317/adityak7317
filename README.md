@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityak7317" target="blank"><img src="https://img.shields.io/twitter/follow/adityak7317?logo=twitter&style=for-the-badge" alt="adityak7317" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://adityak7317-portfolio.netlify.app/](https://adityak7317-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-adityakumar.netlify.app/](https://portfolio-adityakumar.netlify.app/)
 
 - 💬 Ask me about **ReactJS, Springboot**
 
