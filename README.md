@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adityak7317" target="blank"><img src="https://img.shields.io/twitter/follow/adityak7317?logo=twitter&style=for-the-badge" alt="adityak7317" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-adityakumar.netlify.app/](https://portfolio-adityakumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aditfolio.netlify.app/](https://aditfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJS, Springboot**
+- 💬 Ask me about **ReactJS, NodeJS, Springboot**
 
 - 📫 How to reach me **who.adityak@gmail.com**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/adityak7317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityak7317" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adityak7317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityak7317" height="30" width="40" /></a>
-<a href="https://instagram.com/adityak7317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityak7317" height="30" width="40" /></a>
+<a href="https://instagram.com/aadityyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityak7317" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aditya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditya kumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityak7317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityak7317" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityak7317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityak7317" height="30" width="40" /></a>
